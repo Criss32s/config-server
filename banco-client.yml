@@ -1,0 +1,5 @@
+test:
+  name: Test
+  address: Test-Address
+  age: 25
+  urlData: localhost:8888/banco-client/default/master/banco-client.json
