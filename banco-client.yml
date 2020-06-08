@@ -1,4 +1,5 @@
 test:
+  name: Test Default Profile
   address: Test-Address
   age: 25
   urlData: http://localhost:8888/banco-client/default/master/banco-client.json
