@@ -4,7 +4,7 @@ test:
   age: 25
   urlData: http://localhost:8888/banco-client/default/master/banco-client.json
 
-controlller:
+controller:
   uri:
     config: api/config
     json: api/json
