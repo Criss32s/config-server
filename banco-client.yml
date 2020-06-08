@@ -3,3 +3,9 @@ test:
   address: Test-Address
   age: 25
   urlData: http://localhost:8888/banco-client/default/master/banco-client.json
+
+controlller:
+  uri:
+    config: api/config
+    json: api/json
+    poc: api/poc
