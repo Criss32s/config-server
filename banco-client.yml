@@ -9,3 +9,4 @@ controller:
     config: api/config
     json: api/json
     poc: api/poc
+    client: api/retrieve/client
