@@ -26,7 +26,7 @@
 						}
 					},
 					"leaf": false,
-					"name": "overdueBalance",
+					"name": "name3",
 					"value": 1.5,
 					"left":{
 						"leaft":true,
@@ -34,7 +34,7 @@
 					}
 				},
 				"leaf": false,
-				"name": "customerProduct",
+				"name": "name4",
 				"value": 1.7,
 				"left":{
 					"right":{
@@ -43,7 +43,7 @@
 							"value": 1.8
 						},
 						"leaf": false,
-						"name": "maxViewRevolving",
+						"name": "name5",
 						"value": 1.9,
 						"left":{
 							"leaf": true,
@@ -51,7 +51,7 @@
 						}
 					},
 					"leaf": false,
-					"name": "overdueBalance",
+					"name": "name6",
 					"value": 2.1,
 					"left": {
 						"right":{
@@ -60,7 +60,7 @@
 								"value": 2.2
 							},
 							"leaf": false,
-							"name": "maxMx",
+							"name": "name7",
 							"value": 2.3,
 							"left":{
 								"leaf":true,
@@ -68,7 +68,7 @@
 							}
 						},
 						"leaf":false,
-						"name": "creditCard",
+						"name": "name5",
 						"value": 2.5,
 						"left":{
 							"right":{
@@ -76,7 +76,7 @@
 								"value": -0.7862521
 							},
 							"leaf": false,
-							"name": "maxMxStreak1m",
+							"name": "name6",
 							"value": 2.6,
 							"left":{
 								"leaf":true,
@@ -86,7 +86,7 @@
 					}
 				}
 			},
-			"functionname": "ar0"
+			"functionName": "ar0"
 		}
 	]
 }
