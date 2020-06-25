@@ -10,7 +10,7 @@
 								"value": 1
 							},
 							"leaf": false,
-							"name": "name1",
+							"name": "name0",
 							"value": 1.1,
 							"left": {
 								"leaf": true,
@@ -92,26 +92,8 @@
 			"functionConditions":{
 				"right":{
 					"right":{
-						"right":{
-							"right":{
-								"leaf": true,
-								"value": 1
-							},
-							"leaf": false,
-							"name": "name1",
-							"value": 1.1,
-							"left": {
-								"leaf": true,
-								"value": 1.2
-							}
-						},
-						"leaf": false,
-						"name": "name2",
-						"value": 1.3,
-						"left":{
-							"leaf": true,
-							"value": 1.4
-						}
+						"leaf": true,
+						"value": 1.3
 					},
 					"leaf": false,
 					"name": "name3",
@@ -142,19 +124,6 @@
 					"name": "name6",
 					"value": 2.1,
 					"left": {
-						"right":{
-							"right":{
-								"leaf": true,
-								"value": 2.2
-							},
-							"leaf": false,
-							"name": "name7",
-							"value": 2.3,
-							"left":{
-								"leaf":true,
-								"value": 2.4
-							}
-						},
 						"leaf":false,
 						"name": "name8",
 						"value": 2.5,
@@ -165,11 +134,7 @@
 							},
 							"leaf": false,
 							"name": "name9",
-							"value": 2.6,
-							"left":{
-								"leaf":true,
-								"value": 2.7
-							}
+							"value": 2.6
 						}
 					}
 				}
