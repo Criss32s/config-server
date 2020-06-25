@@ -1,0 +1,268 @@
+{
+	"decisionTree":[
+		{
+			"functionConditions":{
+				"right":{
+					"right":{
+						"right":{
+							"right":{
+								"leaf": true,
+								"value": 1
+							},
+							"leaf": false,
+							"name": "name1",
+							"value": 1.1,
+							"left": {
+								"leaf": true,
+								"value": 1.2
+							}
+						},
+						"leaf": false,
+						"name": "name2",
+						"value": 1.3,
+						"left":{
+							"leaf": true,
+							"value": 1.4
+						}
+					},
+					"leaf": false,
+					"name": "name3",
+					"value": 1.5,
+					"left":{
+						"leaf":true,
+						"value": 1.6
+					}
+				},
+				"leaf": false,
+				"name": "name4",
+				"value": 1.7,
+				"left":{
+					"right":{
+						"right":{
+							"leaf": true,
+							"value": 1.8
+						},
+						"leaf": false,
+						"name": "name5",
+						"value": 1.9,
+						"left":{
+							"leaf": true,
+							"value": 2.0
+						}
+					},
+					"leaf": false,
+					"name": "name6",
+					"value": 2.1,
+					"left": {
+						"right":{
+							"right":{
+								"leaf": true,
+								"value": 2.2
+							},
+							"leaf": false,
+							"name": "name7",
+							"value": 2.3,
+							"left":{
+								"leaf":true,
+								"value": 2.4
+							}
+						},
+						"leaf":false,
+						"name": "name8",
+						"value": 2.5,
+						"left":{
+							"right":{
+								"leaf": true,
+								"value": -0.7862521
+							},
+							"leaf": false,
+							"name": "name9",
+							"value": 2.6,
+							"left":{
+								"leaf":true,
+								"value": 2.7
+							}
+						}
+					}
+				}
+			},
+			"functionName": "ar0"
+		},
+		{
+			"functionConditions":{
+				"right":{
+					"right":{
+						"right":{
+							"right":{
+								"leaf": true,
+								"value": 1
+							},
+							"leaf": false,
+							"name": "name1",
+							"value": 1.1,
+							"left": {
+								"leaf": true,
+								"value": 1.2
+							}
+						},
+						"leaf": false,
+						"name": "name2",
+						"value": 1.3,
+						"left":{
+							"leaf": true,
+							"value": 1.4
+						}
+					},
+					"leaf": false,
+					"name": "name3",
+					"value": 1.5,
+					"left":{
+						"leaf":true,
+						"value": 1.6
+					}
+				},
+				"leaf": false,
+				"name": "name4",
+				"value": 1.7,
+				"left":{
+					"right":{
+						"right":{
+							"leaf": true,
+							"value": 1.8
+						},
+						"leaf": false,
+						"name": "name5",
+						"value": 1.9,
+						"left":{
+							"leaf": true,
+							"value": 2.0
+						}
+					},
+					"leaf": false,
+					"name": "name6",
+					"value": 2.1,
+					"left": {
+						"right":{
+							"right":{
+								"leaf": true,
+								"value": 2.2
+							},
+							"leaf": false,
+							"name": "name7",
+							"value": 2.3,
+							"left":{
+								"leaf":true,
+								"value": 2.4
+							}
+						},
+						"leaf":false,
+						"name": "name8",
+						"value": 2.5,
+						"left":{
+							"right":{
+								"leaf": true,
+								"value": -0.7862521
+							},
+							"leaf": false,
+							"name": "name9",
+							"value": 2.6,
+							"left":{
+								"leaf":true,
+								"value": 2.7
+							}
+						}
+					}
+				}
+			},
+			"functionName": "ar1"
+		},		
+		{
+			"functionConditions":{
+				"right":{
+					"right":{
+						"right":{
+							"right":{
+								"leaf": true,
+								"value": 1
+							},
+							"leaf": false,
+							"name": "name1",
+							"value": 1.1,
+							"left": {
+								"leaf": true,
+								"value": 1.2
+							}
+						},
+						"leaf": false,
+						"name": "name2",
+						"value": 1.3,
+						"left":{
+							"leaf": true,
+							"value": 1.4
+						}
+					},
+					"leaf": false,
+					"name": "name3",
+					"value": 1.5,
+					"left":{
+						"leaf":true,
+						"value": 1.6
+					}
+				},
+				"leaf": false,
+				"name": "name4",
+				"value": 1.7,
+				"left":{
+					"right":{
+						"right":{
+							"leaf": true,
+							"value": 1.8
+						},
+						"leaf": false,
+						"name": "name5",
+						"value": 1.9,
+						"left":{
+							"leaf": true,
+							"value": 2.0
+						}
+					},
+					"leaf": false,
+					"name": "name6",
+					"value": 2.1,
+					"left": {
+						"right":{
+							"right":{
+								"leaf": true,
+								"value": 2.2
+							},
+							"leaf": false,
+							"name": "name7",
+							"value": 2.3,
+							"left":{
+								"leaf":true,
+								"value": 2.4
+							}
+						},
+						"leaf":false,
+						"name": "name8",
+						"value": 2.5,
+						"left":{
+							"right":{
+								"leaf": true,
+								"value": -0.7862521
+							},
+							"leaf": false,
+							"name": "name9",
+							"value": 2.6,
+							"left":{
+								"leaf":true,
+								"value": 2.7
+							}
+						}
+					}
+				}
+			},
+			"functionName": "ar2"
+		}
+	]
+}
