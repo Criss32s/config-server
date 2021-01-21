@@ -2,5 +2,5 @@ test:
   name: Test DEV Profile
   address: Test-Address
   age: 25
-  cron: 0/5 * * * * ?
+  cron: 0/15 * * * * ?
   urlData: http://localhost:8888/banco-client/default/master/banco-client.json
